@@ -7,3 +7,58 @@
     vertical-align: baseline;
     background: transparent;
 }
+
+.container-main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container-secondary {
+    width: 50px;
+    height: 450px;
+    background-color: #9d63db;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .container-tertiary-1 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #93569a;
+  }
+
+  .container-tertiary-2 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5c2145;
+  }
+
+  .container-tertiary-3 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3c0030;
+  }
+
+  .container-number {
+    margin-left: 18px;
+    width: 32px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    font-size: 24px;
+    color: #fff;
+  }
