@@ -19,8 +19,8 @@
 
   .container-secondary {
     width: 50px;
-    height: 450px;
-    background-color: #9d63db;
+    height: 130vw;
+    background-color: #fff;
     display: flex;
     flex-direction: column;
   }

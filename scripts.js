@@ -22,7 +22,6 @@ function checkValues() {
   var val8 = $('#input-8').val();
   var word = val0 + val1 + val2 + val3 + val4 + val5 + val6 + val7 + val8;
   if (word === 'wlK8nemLu') {
-    console.log('success');
     $('#container-puzzle').hide();
     var video = $('#container-video');
     video.show();
